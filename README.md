@@ -1,7 +1,10 @@
 ## Hi there 👋
 HN: れす
+
 所属: 会津大学
+
 最近やってること: SwiftでのiOS開発
+
 
 ## Stats 📈
 <p align="left">
