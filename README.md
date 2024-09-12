@@ -8,8 +8,8 @@ HN: れす
 
 ## Stats 📈
 
-- name: LAPRAS Card Readme
-uses: kawamataryo/lapras-card-readme@v1.3.0
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 <p align="left">
   <a href="https://github.com/ressharu">
