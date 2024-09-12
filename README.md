@@ -7,6 +7,10 @@ HN: れす
 
 
 ## Stats 📈
+
+- name: LAPRAS Card Readme
+uses: kawamataryo/lapras-card-readme@v1.3.0
+
 <p align="left">
   <a href="https://github.com/ressharu">
     <img height="20" src="https://komarev.com/ghpvc/?username=ressharu" />
