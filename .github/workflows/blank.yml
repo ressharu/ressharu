@@ -12,16 +12,12 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "ress02"
-          # 以下オプション
-          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-          # ICON_FIRST: "#030E21"
-          # ICON_SECOND: "#1688BF"
-          # BACKGROUND_FIRST: "#020E27"
-          # BACKGROUND_SECOND: "#0E5593"
-          # LANG: "ja"
-          # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
-          # README_FILE: "README.md"
-          # IS_CENTER: "true"
-          # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHARE_ID: "O0OM7DF"
+          ICON_FIRST: "#062366"
+          ICON_SECOND: "#1688bf"
+          BACKGROUND_FIRST: "#020e27"
+          BACKGROUND_SECOND: "#0b6bba"
+          LANG: "en"
+          UPDATE_TIME: "false"
+          IS_CENTER: "true"
