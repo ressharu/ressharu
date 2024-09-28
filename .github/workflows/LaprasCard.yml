@@ -10,10 +10,10 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: kawamataryo/lapras-card-readme@main
+      - uses: ress02/lapras-card-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHARE_ID: "O0OM7DF"
+          SHARE_ID: "ress02"
           ICON_FIRST: "#062366"
           ICON_SECOND: "#1688bf"
           BACKGROUND_FIRST: "#020e27"
