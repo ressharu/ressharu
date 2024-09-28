@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
           SHARE_ID: "ress02"
           ICON_FIRST: "#062366"
           ICON_SECOND: "#1688bf"
