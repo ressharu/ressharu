@@ -10,7 +10,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: ress02/lapras-card-readme@main
+      - uses: ressharu/ressharu@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHARE_ID: "ress02"
