@@ -17,7 +17,7 @@ HN: れす
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/ress02" target="_blank" rel="noopener noreferrer"><img alt="ress02's scores on LAPRAS are as follows: Engineering: 3.31 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.19 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.31&b=3.36&i=3.19&b1=%23020e27&b2=%230b6bba&i1=%23062366&i2=%231688bf&l=en" width="400" ></a></p>
+<p align="center"><a href="https://lapras.com/public/ress02" target="_blank" rel="noopener noreferrer"><img alt="ress02's scores on LAPRAS are as follows: Engineering: 3.31 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.28 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.31&b=3.36&i=3.28&b1=%23020e27&b2=%230b6bba&i1=%23062366&i2=%231688bf&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ressharu&theme=gruvbox)
