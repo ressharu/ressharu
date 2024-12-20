@@ -1,23 +1,23 @@
-name: LAPRAS Card
+# name: LAPRAS Card
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "0 0 * * *"
 
-jobs:
-  update-card:
-    name: LAPRAS Card
-    runs-on: ubuntu-latest
-    steps:
-      - uses: kawamataryo/lapras-card-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
-          SHARE_ID: "ress02"
-          ICON_FIRST: "#062366"
-          ICON_SECOND: "#1688bf"
-          BACKGROUND_FIRST: "#020e27"
-          BACKGROUND_SECOND: "#0b6bba"
-          LANG: "en"
-          UPDATE_TIME: "false"
-          IS_CENTER: "true"
+# jobs:
+#   update-card:
+#     name: LAPRAS Card
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: kawamataryo/lapras-card-readme@main
+#         with:
+#           GH_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+#           SHARE_ID: "ress02"
+#           ICON_FIRST: "#062366"
+#           ICON_SECOND: "#1688bf"
+#           BACKGROUND_FIRST: "#020e27"
+#           BACKGROUND_SECOND: "#0b6bba"
+#           LANG: "en"
+#           UPDATE_TIME: "false"
+#           IS_CENTER: "true"
